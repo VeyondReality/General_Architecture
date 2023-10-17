@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b960ecfed99d37e4f9c032eb8c2e3020, type: 3}
+  m_Name: SwitchSceneReference
+  m_EditorClassIdentifier: 
+  StartupScene: {fileID: 102900000, guid: b688cb88aa994d44fb81580927240234, type: 3}
+  VerificationScene: {fileID: 102900000, guid: a4cf44b309cb5384fa553e7ee2865155, type: 3}
+  LobbyScene: {fileID: 102900000, guid: 0088162aae5d4dd49acd2e81b727f461, type: 3}
+  System: {fileID: 3561481403934221955, guid: 3f94801875ead304a82c9cb98671386f, type: 3}
