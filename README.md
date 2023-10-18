@@ -1,5 +1,5 @@
 # General_Architecture
-這是一個簡易Game Flow的架構，包含StartUp、Verification、Lobby三個基礎場景。
+這是簡易的Game Flow架構，包含StartUp、Verification、Lobby三個基礎場景。
 
 ## Requirement
 * Unity： 2022.3 up
