@@ -4,8 +4,8 @@
 ## Requirement
 * Unity： 2022.3 up
 ## Plugin
-* Zenject： Zenject是一個輕量級的高性能依賴注入框架，專門針對Unity構建。可以編寫鬆散耦合且高度職責分離的程式碼。
-* Vive Input Utility：VIVE Input Utility (VIU)是一套能讓使用者方便管理Vive設備(包含Vive Trackers)的unity套件，且可跨平台。
+* Zenject： 是一個輕量級的高性能依賴注入框架，專門針對Unity構建。可以編寫鬆散耦合且高度職責分離的程式碼。
+* Vive Input 是一套能讓使用者方便管理Vive設備(包含Vive Trackers)的unity套件，且可跨平台。
 * Addressable： 它提供了一種以"address"載入資產的簡易方式，他透過簡化打包資源包與部署來降低開發的開銷。
 ## Installation  
 [![GitHub releases](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub%20Releases&labelColor=181717&message=Downloads&color=green&logo=GitHub&logoColor=white)](https://github.com/VeyondReality/General_Architecture/releases/)  
