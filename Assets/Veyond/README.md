@@ -1,2 +1,0 @@
-# General_Architecture
-基於Zenject下的通用流程架構
