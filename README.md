@@ -17,9 +17,13 @@
 該簡易的架構需要手動匯入Addressable與XR Plugin Management
 
 * Addressable：
-1. 打開UPM工具，並安裝。![20a316da3dd1813f2a4969de9bfcce37.png](pic/01.png)
-**看到Bug不用緊張，套件沒有安裝導致的。**![f0850b475fc15c49ae821ce14c723630.png](pic/02.png)
+1. 打開UPM工具，並安裝。![01.png](pic/01.png)
+**看到Bug不用緊張，套件沒有安裝導致的。**![02.png](pic/02.png)
+2. 打開**Addressables Groups**，並點選**Create Addressables Settings**。![01.png](pic/06.png)
+3. 右鍵點選**Create New Group > Packed Assets**。![01.png](pic/07.png)
+4. 重新命名為**Scenes**，並將**Verification**、**Lobby**兩個場景拖曳上來後分別更名為**Scenes/Verification**、**Scenes/Lobby**。![01.png](pic/08.png)
+
 * XR Plugin Management：  
-1.打開Build Setting並確定切換至Android平台後按下Player Settings。![a63e471ed62470ccb5fd29daae4af783.png](pic/03.png)  
-2.選取XR Plugin Management後點選Install XR Plugin Management。![fc9c44e257e72e4733affcf7a649c6bc.png](pic/04.png)  
+1.打開Build Setting並確定切換至Android平台後按下Player Settings。![03.png](pic/03.png)  
+2.選取XR Plugin Management後點選Install XR Plugin Management。![04.png](pic/04.png)  
 3.再來就看需要開發到哪些裝置並安裝該裝置的SDK。![05.png](pic/05.png)
