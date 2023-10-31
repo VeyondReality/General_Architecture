@@ -1,9 +1,9 @@
 using HTC.UnityPlugin.Vive;
-using Shooting.Player.Facades;
+using Veyond.Player.Facades;
 using UnityEngine;
 using Zenject;
 
-namespace Shooting.Player.Handler
+namespace Veyond.Player.Handler
 {
     public class RightHandMotionHandler : MonoBehaviour, ITickable
     {

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Shooting.Player.Base
+namespace Veyond.Player.Base
 {
     public interface IvrDevice
     {

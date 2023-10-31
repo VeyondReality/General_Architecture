@@ -1,7 +1,7 @@
-using Shooting.Flow.Facade;
+using Veyond.Flow.Facade;
 using Zenject;
 
-namespace Shooting.Flow.Manager
+namespace Veyond.Flow.Manager
 {
     public class Verification : IInitializable
     {

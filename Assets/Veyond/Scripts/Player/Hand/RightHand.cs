@@ -1,9 +1,9 @@
 using HTC.UnityPlugin.Vive;
-using Shooting.Player.Base;
+using Veyond.Player.Base;
 using UnityEngine;
 using Zenject;
 
-namespace Shooting.Player.Hand
+namespace Veyond.Player.Hand
 {
     public class RightHand : IHand
     {

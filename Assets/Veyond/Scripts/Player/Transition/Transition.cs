@@ -1,10 +1,10 @@
-using Shooting.Player.Base;
+using Veyond.Player.Base;
 using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.UI;
 using Zenject;
 
-namespace Shooting.Player.Mask
+namespace Veyond.Player.Mask
 {
     public class Transition : ITransition
     {

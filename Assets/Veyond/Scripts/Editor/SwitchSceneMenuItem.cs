@@ -2,8 +2,9 @@ using ModestTree;
 using UnityEditor;
 using UnityEditor.SceneManagement;
 using UnityEngine;
+using Veyond.Config;
 
-namespace Shooting.Editor
+namespace Veyond.Editor
 {
     [CreateAssetMenu(menuName = "Veyond/Switch Scene Reference", fileName = "New SwitchSceneReference")]
     public class SwitchSceneMenuItem : ScriptableObject
@@ -42,7 +43,7 @@ namespace Shooting.Editor
         [MenuItem(ToolsPath.SwitchScene.Lobby.Path, priority = ToolsPath.SwitchScene.Lobby.Priority)]
         public static void SwitchToLobbyScene()
         {
-            OpenScene(Instance.LobbyScene);
+            OpenScene(Instance.LobbyScene); 
         }
 
         public static void OpenScene(SceneAsset sceneAsset)

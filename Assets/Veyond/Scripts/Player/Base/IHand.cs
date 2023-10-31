@@ -1,7 +1,7 @@
 using UnityEngine;
 using Zenject;
 
-namespace Shooting.Player.Base
+namespace Veyond.Player.Base
 {
     public interface IHand
     {

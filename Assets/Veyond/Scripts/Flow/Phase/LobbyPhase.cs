@@ -1,11 +1,11 @@
-using Shooting.Flow.Base;
-using Shooting.Player.Facades;
-using Shooting.Tool.Base;
+using Veyond.Flow.Base;
+using Veyond.Player.Facades;
+using Veyond.Tool.Base;
 using System.Threading.Tasks;
 using UnityEngine;
 using Zenject;
 
-namespace Shooting.Flow.Phase
+namespace Veyond.Flow.Phase
 {
     public class LobbyPhase : IPhase
     {

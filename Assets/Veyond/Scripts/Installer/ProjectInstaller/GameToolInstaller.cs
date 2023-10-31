@@ -1,8 +1,8 @@
-using Shooting.Tool.Base;
-using Shooting.Tool.Loader;
+using Veyond.Tool.Base;
+using Veyond.Tool.Loader;
 using Zenject;
 
-namespace Shooting.Installer
+namespace Veyond.Installer
 {
     public class GameToolInstaller : Installer<GameToolInstaller>
     {

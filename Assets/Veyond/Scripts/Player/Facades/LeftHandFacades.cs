@@ -1,8 +1,8 @@
-using Shooting.Player.Base;
+using Veyond.Player.Base;
 using UnityEngine;
 using Zenject;
 
-namespace Shooting.Player.Facades
+namespace Veyond.Player.Facades
 {
     public class LeftHandFacades : MonoBehaviour
     {

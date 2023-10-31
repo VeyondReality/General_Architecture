@@ -1,6 +1,6 @@
 using Zenject;
 
-namespace Shooting.Installer
+namespace Veyond.Installer
 {
     public class SystemInstaller : MonoInstaller
     {

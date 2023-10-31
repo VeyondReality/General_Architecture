@@ -1,8 +1,8 @@
-using Shooting.Player.Base;
+using Veyond.Player.Base;
 using UnityEngine;
 using Zenject;
 
-namespace Shooting.Player.Character
+namespace Veyond.Player.Character
 {
     public class VrDevice : IvrDevice
     {

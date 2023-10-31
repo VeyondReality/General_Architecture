@@ -1,13 +1,13 @@
-using Shooting.Player.Base;
-using Shooting.Player.Character;
-using Shooting.Player.Hand;
-using Shooting.Player.Mask;
+using Veyond.Player.Base;
+using Veyond.Player.Character;
+using Veyond.Player.Hand;
+using Veyond.Player.Mask;
 using System;
 using UnityEngine;
 using UnityEngine.UI;
 using Zenject;
 
-namespace Shooting.Installer
+namespace Veyond.Installer
 {
     public class PlayerInstaller : MonoInstaller
     {

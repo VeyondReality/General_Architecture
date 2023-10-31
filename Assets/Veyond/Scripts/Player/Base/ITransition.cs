@@ -1,6 +1,6 @@
 using UnityEngine.UI;
 
-namespace Shooting.Player.Base
+namespace Veyond.Player.Base
 {
     public interface ITransition
     {
